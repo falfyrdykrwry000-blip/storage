@@ -1,6 +1,6 @@
 {
-    "latest_version":2,
-    "version_name": "5.0.8",
+    "latest_version":1,
+    "version_name": "5.0.7",
     "force_update": false,
     "changelog": "- إصلاحات أمنية\n- دعم اللغة العربية\n- نظام تحديث جديد",
     "file_size": 15728640,
