@@ -1,8 +1,8 @@
 {
-    "latest_version": 1,
-    "version_name": "5.0.8",
+    "latest_version": 2,
+    "version_name": "5.0.12",
     "force_update": false,
-    "changelog": "- إصلاحات أمنية\n- دعم اللغة العربية\n- نظام تحديث جديد\n- توقيع خاص FM AI",
-    "file_size": 9100000,
+    "changelog": "- إصلاحات أمنية\n- دعم اللغة العربية\n- نظام تحديث تلقائي\n- شاشة بداية احترافية\n- توقيع FM AI",
+    "file_size": 9130000,
     "checksum": "sha256:5B2ABB94004E03ACCB1F7E975B941F2B4413B274872415F882AF5EFE5FA866E0"
 }
